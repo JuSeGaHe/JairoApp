@@ -1,0 +1,4 @@
+#Thu Jun 27 11:00:56 COT 2019
+base.0=C\:\\xampp\\htdocs\\ble\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
